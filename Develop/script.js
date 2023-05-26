@@ -54,6 +54,18 @@ $(function () {
   // the values of the corresponding textarea elements. HINT: How can the id
   // attribute of each time-block be used to do this?
   //
+  //function getLocalStorageValues() {
+    //timeBlockElement.each(function () {
+      //var hourID = localStorage.getItem('.time-block' + ($(this).attr("id")));
+      //console.log(hourID)
+
+      //var hourElID = ($(this).attr("id"));
+      //if(hourElID === hourID) {
+      
+      //} GOTTA COME BACK TO THIS IDK
+
+   // })
+ //}
   // TODO: Add code to display the current date in the header of the page.
   function displayCurrentDate() {
     var currentDate = (dayjs().format('dddd MMMM DD, YYYY'));
