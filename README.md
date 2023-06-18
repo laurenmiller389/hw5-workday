@@ -15,7 +15,7 @@ This project creates a schedule for the user to block out how they are spending 
 
 This project uses Bootstrap to organize the layout and is powered by Day.js abd jQuery. None of these installations are required by the user.
 
-You can view the deployed page here: 
+You can view the deployed page here: https://laurenmiller389.github.io/hw5-workday/
 
 ## Usage
 
