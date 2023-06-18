@@ -2,7 +2,7 @@
 
 ## Description
 
-This project creates a schedule for the user to block out how they are spending their work day.
+This project creates a schedule for the user to block out how they are spending their work day. Enter your tasks into the task blocks and click save to log them into the scheduler. The grey blocks represent time the has already passed, the red block represents the current time, and the green block represent upcoming hours.
 
 ## Table of Contents
 
@@ -19,9 +19,9 @@ You can view the deployed page here: https://laurenmiller389.github.io/hw5-workd
 
 ## Usage
 
+Simply click the deployment link above to get started. Find the specified hours to the left and type in your tasks accordingly. Click the blue button to the right to save.
 
-
-![screenshot of the input](./screenshot.png)
+![screenshot of the input](./Assets/screenshot.png)
 
 ## Credits
 
